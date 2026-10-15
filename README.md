@@ -16,7 +16,8 @@
 Before running the application, ensure you have the following: 
 
 * **Python 3.8+** installed in your system.
-* A **Smartsheet Access Token** (generated under *Account > Personal Settings > API Access > Generate new access token*).
+* **Register and Log in** to your Smartsheet account
+* A **Smartsheet Access Token** (generated under *Account > Personal Settings > API Access > Generate new access token*) **Payment is required**.
 * The **Sheet ID** of the target Smartsheet spreadsheet.
 
 ## Installation
