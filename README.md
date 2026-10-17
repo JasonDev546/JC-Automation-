@@ -9,7 +9,7 @@
 * **Error Handling:** Validates folder paths and ensures stable API connectivity during data transfer.
 
 ## Live Demo
-[![Smartsheet API folder monitoring GUI app](https://github.com/ComeG3tSome/JC-Automation-/blob/main/SmartsheetGUIAPP.jpg?raw=true)](https://www.youtube.com/watch?v=O7L47zKL2pU)
+[![Smartsheet API folder monitoring GUI app](https://github.com/JasonDev546/JC-Automation-/blob/main/SmartsheetGUIAPP.jpg?raw=true)](https://www.youtube.com/watch?v=O7L47zKL2pU)
 
 ## Prerequisites
 
@@ -24,7 +24,7 @@ Before running the application, ensure you have the following:
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/ComeG3tSome/JC-Automation-
+   git clone https://github.com/JasonDev546/JC-Automation-
    cd JC-Automation-
    ``` 
 2.  Install the necessary Python packages required for the script to execute successfully:
